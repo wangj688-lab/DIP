@@ -1,0 +1,47 @@
+QWidget#mainWindow {
+        border: 1px solid rgb(50, 50, 50);
+        background: rgb(50, 50, 50);
+}
+
+
+QMenuBar {
+        background: rgb(57, 58, 60);
+        border: none;
+}
+QMenu {
+        border: 1px solid rgb(0, 0, 0);
+        background: rgb(0, 0, 0);
+}
+
+QMenu::item {
+        height: 22px;
+        padding: 0px 25px 0px 20px;
+}
+
+QMenu::item:enabled {
+        color: rgb(225, 225, 225);
+}
+QMenu::item:!enabled {
+        color: rgb(155, 155, 155);
+}
+QMenu::item:enabled:selected {
+        color: rgb(230, 230, 230);
+        background: rgba(255, 255, 255, 40);
+}
+QMenu::separator {
+        height: 1px;
+        background: rgb(100, 100, 100);
+}
+QMenu::indicator {
+        width: 13px;
+        height: 13px;
+}
+QMenu::icon {
+        padding-left: 2px;
+        padding-right: 2px;
+}
+QLabel {
+    color:#4a4a4a;
+}
+
+

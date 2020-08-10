@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>languages/en_US.qm</file>
+        <file>languages/en_US.ts</file>
+        <file>languages/zh_CN.qm</file>
+        <file>languages/zh_CN.ts</file>
+        <file>images/logo.png</file>
+        <file>images/button.png</file>
+        <file>images/button-pressed.png</file>
+        <file>psblack.css</file>
+        <file>images/background.png</file>
+        <file>images/zoom_in.ico</file>
+        <file>images/zoom_out.ico</file>
+        <file>images/history.ico</file>
+        <file>images/save_as.png</file>
+        <file>audio/open.wav</file>
+        <file>images/back-ground.png</file>
+    </qresource>
+</RCC>
